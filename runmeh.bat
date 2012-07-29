@@ -10,7 +10,7 @@ echo. 	TWRP 2.2 Recovery Flasher for Marvel and MarvelC
 echo. 								
 echo. 		  WFSdev Team - Created by rezo609	
 echo. 								
-echo. 		You must have root for this too work	
+echo. 	 You must have USB Debugging on for this too work	
 echo. 								
 echo ===============================================================================
 pause
